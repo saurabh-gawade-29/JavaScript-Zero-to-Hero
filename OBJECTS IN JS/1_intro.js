@@ -14,7 +14,14 @@
 
 testObj = {
     // Properties
+    // name: value,
     // methods
 }
 
+
+// eg:
+let a = {
+    name: "saurabh",
+    age: 24
+}
 

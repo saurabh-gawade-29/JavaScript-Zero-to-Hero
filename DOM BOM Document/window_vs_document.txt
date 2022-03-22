@@ -1,0 +1,11 @@
+Window : 
+Global Object,
+Parent
+* Methods : setTimeOut and setTimeInterval
+
+VS
+
+Document: 
+Inner Object of Window, 
+Child, 
+Part of Window

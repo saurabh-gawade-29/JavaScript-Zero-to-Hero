@@ -10,9 +10,11 @@ function_name()
 
 // !After
 
-function_name2 = ()=> {
+let function_name2 = ()=> {
     console.log("hello World from arrow function")
 }
 
 // Call the function
 function_name2();
+
+//! Alawys Define First and then call

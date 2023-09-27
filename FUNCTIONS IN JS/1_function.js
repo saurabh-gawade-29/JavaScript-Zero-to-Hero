@@ -23,3 +23,11 @@ function greet(msg, name){
     console.log(msg +" "+ name);
 }
 greet("Good Morning", "Saurabh");
+
+
+// Function with Default parameter
+function defaultParam(a, b=5){
+    return a * b
+}
+
+console.log(defaultParam(5));

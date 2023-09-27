@@ -17,3 +17,22 @@ console.log(myFriends.length);
 // You can to this way also
 // ? Totol lenght(3) - 1 = 2 (Shubham)
 console.log(myFriends[myFriends.length - 1]);
+
+
+// Prototype
+let myArray = new Array();
+console.log(myArray, "my Array") 
+// Output: [] 
+
+// Length: It's a property not a method
+console.log(myArray.length)
+//! console.log(myArray.length()) Its not a method
+
+
+//TODO: Your Last Elemenet ==> index - 1
+//! Example
+console.log(myFriends.length, "Length")
+// 3 Length -- But your last element is in index -1
+
+
+console.log(myFriends[myFriends.length -1])

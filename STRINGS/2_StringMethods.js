@@ -9,5 +9,3 @@ console.log(myName.indexOf("Gawade"))
 //! if the Value not present in String it will return -1
 console.log(myName.indexOf("test"))
 // Output: -1 ==> test not present here thats why it will return -1
-
-
